@@ -224,7 +224,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     /**
      *  Returns the Character object
-     *  @author Atsuko Critchfield ( )
+     *  @author Atsuko
      *  @return character
      */
     public static Character getCharacter(){
@@ -233,7 +233,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     /**
      *  Returns the Attack object
-     *  @author Atsuko Critchfield ( )
+     *  @author Atsuko
      *  @return attack
      */
     public static Attack getAttack(){
@@ -242,7 +242,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     /**
      *  Set the Attack object
-     *  @author Atsuko Critchfield ( )
+     *  @author Atsuko
      *  @return void
      */
     public static void setAttack(Attack newAttack){
